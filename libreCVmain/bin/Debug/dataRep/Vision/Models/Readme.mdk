@@ -1,0 +1,13 @@
+Make a class/ method to pass to a model, where to define the data structure folders. Make the code of models/classes independent from reading data from files and folders.
+
+Models --- Model 1
+	   --- Model 2
+	   --- Model n --- OCR
+				   --- 2D
+				   --- 1D
+				   
+
+If I have more than one ocr? more than one 2D?...
+
+find a way to keep the structure flexible. Avery model strucutre is different from others. MAybe, can make an xml file where to dfine the structure of every model directory..
+or another solution.

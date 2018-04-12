@@ -1,0 +1,177 @@
+2018/01/04 16:16:48 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5322: Image acquisition: timeout in operator grab_image
+2018/01/04 16:19:04 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5322: Image acquisition: timeout in operator grab_image
+2018/01/04 16:19:22 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5322: Image acquisition: timeout in operator grab_image
+2018/01/04 16:23:41 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5322: Image acquisition: timeout in operator grab_image
+2018/01/04 16:23:48 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5322: Image acquisition: timeout in operator grab_image
+2018/01/04 16:44:28 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:44:28 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:51:54 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:51:54 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:51:57 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:51:57 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:02 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:02 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:05 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:05 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:08 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:08 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:08 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:08 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:08 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:09 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:11 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:11 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:15 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:15 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:16 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:16 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:19 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:19 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:20 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:20 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:23 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:23 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:24 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:24 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:24 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:24 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:25 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:25 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:37 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:37 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:40 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:40 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:41 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:41 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:41 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:42 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:42 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:42 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:42 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:42 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:42 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:43 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:43 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:43 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:43 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:43 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:43 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:52:43 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:52:57 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:53:43 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:53:43 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:53:46 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:53:46 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:53:48 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:53:48 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:53:49 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:53:49 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:54:17 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:54:17 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:54:23 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:54:24 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:54:29 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:54:29 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:54:30 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:54:30 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:54:31 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:54:31 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:54:31 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:54:31 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:54:32 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:54:32 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:54:32 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:54:32 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:54:36 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:54:36 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:54:38 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:54:38 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:54:38 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:54:38 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 16:55:09 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:55:12 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 16:55:12 - CoreCV.Camera.Void .ctor(System.String, System.String): HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:53:12 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:53:17 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:53:17 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:53:31 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:53:31 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:53:52 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:13 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:19 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:19 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:24 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:24 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:25 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:25 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:26 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:26 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:26 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:26 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:27 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:27 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:27 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:27 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:28 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:28 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:28 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:28 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:29 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:29 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:29 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:29 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:29 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:29 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:39 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5306: Image acquisition: failed grabbing of an image in operator grab_image
+2018/01/04 17:54:42 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:42 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:42 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:42 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:43 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:43 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:43 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:43 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:43 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:43 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:43 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:43 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:45 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:45 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:46 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:46 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:46 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:46 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:46 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:46 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:46 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:46 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:47 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:47 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 17:54:47 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 17:54:47 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 18:08:12 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 18:08:12 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 18:08:16 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 18:08:16 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 18:08:20 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 18:08:20 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 18:08:24 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 18:08:24 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 18:08:40 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 18:08:40 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 18:08:40 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 18:08:41 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 18:08:41 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 18:08:41 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 18:08:41 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 18:08:41 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 18:08:41 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 18:08:41 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 18:08:41 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 18:08:41 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 18:08:41 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 18:08:41 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 18:08:42 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 18:08:42 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image
+2018/01/04 18:08:42 - CoreCV.Camera.Void .ctor(System.String, System.String): 5312 HALCON error #5312: Image acquisition: device cannot be initialized in operator open_framegrabber
+2018/01/04 18:08:42 - libreCVmain.frmMatchingAssistant.Void btnGrabImage_Click(System.Object, System.EventArgs): HALCON error #5310: Image acquisition: handle not valid in operator grab_image

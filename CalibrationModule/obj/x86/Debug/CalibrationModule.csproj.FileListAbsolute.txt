@@ -1,0 +1,8 @@
+E:\00 Abed\Vision software\libreCV\CalibrationModule\bin\x86\Debug\CalibrationModule.dll
+E:\00 Abed\Vision software\libreCV\CalibrationModule\bin\x86\Debug\CalibrationModule.pdb
+E:\00 Abed\Vision software\libreCV\CalibrationModule\bin\x86\Debug\halcondotnet.dll
+E:\00 Abed\Vision software\libreCV\CalibrationModule\bin\x86\Debug\halcondotnet.xml
+E:\00 Abed\Vision software\libreCV\CalibrationModule\obj\x86\Debug\CalibrationModule.csproj.CoreCompileInputs.cache
+E:\00 Abed\Vision software\libreCV\CalibrationModule\obj\x86\Debug\CalibrationModule.dll
+E:\00 Abed\Vision software\libreCV\CalibrationModule\obj\x86\Debug\CalibrationModule.pdb
+E:\00 Abed\Vision software\libreCV\CalibrationModule\obj\x86\Debug\CalibrationModule.csprojResolveAssemblyReference.cache

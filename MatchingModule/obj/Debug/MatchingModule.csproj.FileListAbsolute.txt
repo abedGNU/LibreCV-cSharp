@@ -1,0 +1,15 @@
+E:\00 Abed\Vision software\libreCV\MatchingModule\bin\Debug\MatchingModule.dll
+E:\00 Abed\Vision software\libreCV\MatchingModule\bin\Debug\MatchingModule.pdb
+E:\00 Abed\Vision software\libreCV\MatchingModule\bin\Debug\halcondotnet.dll
+E:\00 Abed\Vision software\libreCV\MatchingModule\bin\Debug\halcondotnet.xml
+E:\00 Abed\Vision software\libreCV\MatchingModule\obj\Debug\MatchingModule.csproj.CoreCompileInputs.cache
+E:\00 Abed\Vision software\libreCV\MatchingModule\obj\Debug\MatchingModule.dll
+E:\00 Abed\Vision software\libreCV\MatchingModule\obj\Debug\MatchingModule.pdb
+E:\00 Abed\100 Vision software\libreCV\MatchingModule\bin\Debug\MatchingModule.dll
+E:\00 Abed\100 Vision software\libreCV\MatchingModule\bin\Debug\MatchingModule.pdb
+E:\00 Abed\100 Vision software\libreCV\MatchingModule\bin\Debug\halcondotnet.dll
+E:\00 Abed\100 Vision software\libreCV\MatchingModule\bin\Debug\halcondotnet.xml
+E:\00 Abed\100 Vision software\libreCV\MatchingModule\obj\Debug\MatchingModule.csproj.CoreCompileInputs.cache
+E:\00 Abed\100 Vision software\libreCV\MatchingModule\obj\Debug\MatchingModule.dll
+E:\00 Abed\100 Vision software\libreCV\MatchingModule\obj\Debug\MatchingModule.pdb
+E:\00 Abed\100 Vision software\libreCV\MatchingModule\obj\Debug\MatchingModule.csprojResolveAssemblyReference.cache

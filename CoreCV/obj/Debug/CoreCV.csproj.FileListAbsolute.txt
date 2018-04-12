@@ -1,0 +1,27 @@
+E:\00 Abed\Vision software\libreCV\CoreCV\bin\Debug\CoreCV.dll
+E:\00 Abed\Vision software\libreCV\CoreCV\bin\Debug\CoreCV.pdb
+E:\00 Abed\Vision software\libreCV\CoreCV\bin\Debug\halcondotnet.dll
+E:\00 Abed\Vision software\libreCV\CoreCV\bin\Debug\halcondotnet.xml
+E:\00 Abed\Vision software\libreCV\CoreCV\obj\Debug\CoreCV.CameraCalibration.resources
+E:\00 Abed\Vision software\libreCV\CoreCV\obj\Debug\CoreCV.CamExternParameter.resources
+E:\00 Abed\Vision software\libreCV\CoreCV\obj\Debug\CoreCV.CamInterParamter.resources
+E:\00 Abed\Vision software\libreCV\CoreCV\obj\Debug\CoreCV.csproj.GenerateResource.Cache
+E:\00 Abed\Vision software\libreCV\CoreCV\obj\Debug\CoreCV.csproj.CoreCompileInputs.cache
+E:\00 Abed\Vision software\libreCV\CoreCV\obj\Debug\CoreCV.dll
+E:\00 Abed\Vision software\libreCV\CoreCV\obj\Debug\CoreCV.pdb
+E:\00 Abed\100 Vision software\libreCV\CoreCV\bin\Debug\CoreCV.dll
+E:\00 Abed\100 Vision software\libreCV\CoreCV\bin\Debug\CoreCV.pdb
+E:\00 Abed\100 Vision software\libreCV\CoreCV\bin\Debug\CalibrationModule.dll
+E:\00 Abed\100 Vision software\libreCV\CoreCV\bin\Debug\halcondotnet.dll
+E:\00 Abed\100 Vision software\libreCV\CoreCV\bin\Debug\ViewROI.dll
+E:\00 Abed\100 Vision software\libreCV\CoreCV\bin\Debug\CalibrationModule.pdb
+E:\00 Abed\100 Vision software\libreCV\CoreCV\bin\Debug\ViewROI.pdb
+E:\00 Abed\100 Vision software\libreCV\CoreCV\bin\Debug\halcondotnet.xml
+E:\00 Abed\100 Vision software\libreCV\CoreCV\obj\Debug\CoreCV.csprojResolveAssemblyReference.cache
+E:\00 Abed\100 Vision software\libreCV\CoreCV\obj\Debug\CoreCV.CameraCalibration.resources
+E:\00 Abed\100 Vision software\libreCV\CoreCV\obj\Debug\CoreCV.CamExternParameter.resources
+E:\00 Abed\100 Vision software\libreCV\CoreCV\obj\Debug\CoreCV.CamInterParameter.resources
+E:\00 Abed\100 Vision software\libreCV\CoreCV\obj\Debug\CoreCV.csproj.GenerateResource.Cache
+E:\00 Abed\100 Vision software\libreCV\CoreCV\obj\Debug\CoreCV.csproj.CoreCompileInputs.cache
+E:\00 Abed\100 Vision software\libreCV\CoreCV\obj\Debug\CoreCV.dll
+E:\00 Abed\100 Vision software\libreCV\CoreCV\obj\Debug\CoreCV.pdb

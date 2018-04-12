@@ -1,0 +1,56 @@
+E:\00 Abed\Vision software\libreCV\libreCVmain\bin\Debug\libreCVmain.exe.config
+E:\00 Abed\Vision software\libreCV\libreCVmain\bin\Debug\libreCVmain.exe
+E:\00 Abed\Vision software\libreCV\libreCVmain\bin\Debug\libreCVmain.pdb
+E:\00 Abed\Vision software\libreCV\libreCVmain\bin\Debug\CalibrationModule.dll
+E:\00 Abed\Vision software\libreCV\libreCVmain\bin\Debug\CommModule.dll
+E:\00 Abed\Vision software\libreCV\libreCVmain\bin\Debug\CoreCV.dll
+E:\00 Abed\Vision software\libreCV\libreCVmain\bin\Debug\halcondotnet.dll
+E:\00 Abed\Vision software\libreCV\libreCVmain\bin\Debug\MatchingModule.dll
+E:\00 Abed\Vision software\libreCV\libreCVmain\bin\Debug\ViewROI.dll
+E:\00 Abed\Vision software\libreCV\libreCVmain\bin\Debug\CalibrationModule.pdb
+E:\00 Abed\Vision software\libreCV\libreCVmain\bin\Debug\CommModule.pdb
+E:\00 Abed\Vision software\libreCV\libreCVmain\bin\Debug\CoreCV.pdb
+E:\00 Abed\Vision software\libreCV\libreCVmain\bin\Debug\MatchingModule.pdb
+E:\00 Abed\Vision software\libreCV\libreCVmain\bin\Debug\ViewROI.pdb
+E:\00 Abed\Vision software\libreCV\libreCVmain\bin\Debug\halcondotnet.xml
+E:\00 Abed\Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.csprojResolveAssemblyReference.cache
+E:\00 Abed\Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.mainFrm.resources
+E:\00 Abed\Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.Properties.Resources.resources
+E:\00 Abed\Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.csproj.GenerateResource.Cache
+E:\00 Abed\Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.csproj.CoreCompileInputs.cache
+E:\00 Abed\Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.exe
+E:\00 Abed\Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.pdb
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\bin\Debug\libreCVmain.exe.config
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\bin\Debug\libreCVmain.exe
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\bin\Debug\libreCVmain.pdb
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\bin\Debug\CalibrationModule.dll
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\bin\Debug\CommModule.dll
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\bin\Debug\CoreCV.dll
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\bin\Debug\halcondotnet.dll
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\bin\Debug\MatchingModule.dll
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\bin\Debug\ViewROI.dll
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\bin\Debug\CalibrationModule.pdb
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\bin\Debug\CommModule.pdb
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\bin\Debug\CoreCV.pdb
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\bin\Debug\MatchingModule.pdb
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\bin\Debug\ViewROI.pdb
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\bin\Debug\halcondotnet.xml
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.csprojResolveAssemblyReference.cache
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.FormBlack.resources
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.FormFlat.resources
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.FormHome.resources
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.frmCalibration.resources
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.frmCameras.resources
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.frmDashBoard.resources
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.frmMatchingAssistant.resources
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.frmProduction.resources
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.frmSettings.resources
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.Properties.Resources.resources
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.csproj.GenerateResource.Cache
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.csproj.CoreCompileInputs.cache
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.exe
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.pdb
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.frmOCR.resources
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\bin\Debug\OCR.dll
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\bin\Debug\OCR.pdb
+E:\00 Abed\100 Vision software\libreCV\libreCVmain\obj\Debug\libreCVmain.Formtest.resources

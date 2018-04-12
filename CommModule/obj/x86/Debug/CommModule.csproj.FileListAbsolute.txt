@@ -1,0 +1,5 @@
+E:\00 Abed\Vision software\libreCV\CommModule\bin\x86\Debug\CommModule.dll
+E:\00 Abed\Vision software\libreCV\CommModule\bin\x86\Debug\CommModule.pdb
+E:\00 Abed\Vision software\libreCV\CommModule\obj\x86\Debug\CommModule.csproj.CoreCompileInputs.cache
+E:\00 Abed\Vision software\libreCV\CommModule\obj\x86\Debug\CommModule.dll
+E:\00 Abed\Vision software\libreCV\CommModule\obj\x86\Debug\CommModule.pdb

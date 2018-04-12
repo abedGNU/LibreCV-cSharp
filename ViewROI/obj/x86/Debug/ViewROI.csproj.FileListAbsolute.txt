@@ -1,0 +1,7 @@
+E:\00 Abed\Vision software\libreCV\ViewROI\bin\x86\Debug\ViewROI.dll
+E:\00 Abed\Vision software\libreCV\ViewROI\bin\x86\Debug\ViewROI.pdb
+E:\00 Abed\Vision software\libreCV\ViewROI\bin\x86\Debug\halcondotnet.dll
+E:\00 Abed\Vision software\libreCV\ViewROI\bin\x86\Debug\halcondotnet.xml
+E:\00 Abed\Vision software\libreCV\ViewROI\obj\x86\Debug\ViewROI.csproj.CoreCompileInputs.cache
+E:\00 Abed\Vision software\libreCV\ViewROI\obj\x86\Debug\ViewROI.dll
+E:\00 Abed\Vision software\libreCV\ViewROI\obj\x86\Debug\ViewROI.pdb

@@ -1,0 +1,11 @@
+E:\00 Abed\Vision software\libreCV\CommModule\bin\Debug\CommModule.dll
+E:\00 Abed\Vision software\libreCV\CommModule\bin\Debug\CommModule.pdb
+E:\00 Abed\Vision software\libreCV\CommModule\obj\Debug\CommModule.csproj.CoreCompileInputs.cache
+E:\00 Abed\Vision software\libreCV\CommModule\obj\Debug\CommModule.dll
+E:\00 Abed\Vision software\libreCV\CommModule\obj\Debug\CommModule.pdb
+E:\00 Abed\100 Vision software\libreCV\CommModule\bin\Debug\CommModule.dll
+E:\00 Abed\100 Vision software\libreCV\CommModule\bin\Debug\CommModule.pdb
+E:\00 Abed\100 Vision software\libreCV\CommModule\obj\Debug\CommModule.csproj.CoreCompileInputs.cache
+E:\00 Abed\100 Vision software\libreCV\CommModule\obj\Debug\CommModule.dll
+E:\00 Abed\100 Vision software\libreCV\CommModule\obj\Debug\CommModule.pdb
+E:\00 Abed\100 Vision software\libreCV\CommModule\obj\Debug\CommModule.csprojResolveAssemblyReference.cache

@@ -1,0 +1,24 @@
+Acquire image
+
+Segmentation ---> get region (Blob analysis, threshold,  dyn_threshold,  segment_characters,  select_characters....)
+			 ---> get from the region different connected regions (connection)
+			 ---> sort region (sort_region)
+
+Training file ---> create a training file (.trf)
+			  ---> append to the training file the selected regions and their names(corresponding chars)
+			 
+
+Create OCR classifier (.omc)
+			  ---> read training file ( read_ocr_trainf_names (TrainFile, CharacterNames, CharacterCount) )
+			  ---> create OCR class, to get a handle and set parameters ( create_ocr_class_mlp)
+			  ---> train the classifier (trainf_ocr_class_mlp)
+			  ---> store classifier in a file (write_ocr_class_mlp)
+			  ---> clear the memory (clear_ocr_class_mlp)
+			  
+Reading
+		----> Automatic text Reader
+						---> Create the Automatic Text Reader with a pretrained OCR font (create_text_model_reader)
+						---> Segment the image and read the text (find_text)
+						---> Get the segmented regions (get_text_object)
+						---> Get the name of regions alrady segmented (get_text_result)
+		----> 
